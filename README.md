@@ -1,5 +1,17 @@
 # SailsAng
 
+
+## Para correr el servidor
+`sails lift`
+La pagina de servidor se sirve en localhost:1337, pero si se quiere actualizar el front-end, es necesario correr en la terminal del front-end
+`ng build`
+
+### Para desarrollar el front-end, mientras el servidor corre
+`ng serve` 
+la pagina de front end se sirve en localhost:4200 para desarrollo.
+
+###
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
 
 ## Development server
